@@ -3,16 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-
-# Actualizado desde Gihub
-este esta hecho en github
-
-
-SOS UN CAPOOOOOO MANDALEEEE
-
-
-##Hola mundo configurado
-adadsa
+## estos cambios son nuevos
