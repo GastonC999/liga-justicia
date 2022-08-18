@@ -9,3 +9,6 @@ Pueden hacer lo que quieran...
 
 # Actualizado desde Gihub
 este esta hecho en github
+
+
+SOS UN CAPOOOOOO MANDALEEEE
